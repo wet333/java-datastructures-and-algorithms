@@ -116,6 +116,8 @@ public class MyLinkedList {
         return returnValue;
     }
 
+    // TODO: Falta implementar insert y remove de nodos.
+
     public void printList() {
 
         if (this.length == 0) {
